@@ -1,5 +1,5 @@
 # Golang Package "counter"
-Package counter id a simple thread-safe atomic counter. It is basically just a wrapper of convenience functions around "sync/atomic" compare and swap operations (CAS) for `uint64`.
+Package "counter" is a simple thread-safe atomic counter. It is basically just a wrapper of convenience functions around "sync/atomic" compare and swap operations (CAS) for `uint64`.
 
 ## Example
 
